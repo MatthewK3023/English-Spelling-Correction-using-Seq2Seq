@@ -2,7 +2,7 @@
 implement a seq2seq recurrent neural network for English spelling correction, E.g. ‘recetion’ to ‘recession’
 
 #### Dataset Desriptions
-=========================	train.json =========================
+* =========================	train.json =========================
 1. training dataset
 2. file length: 7461
 3. data size: 12925
@@ -11,7 +11,8 @@ implement a seq2seq recurrent neural network for English spelling correction, E.
 1. testing dataset
 2. file length: 50
 3. data size: 50
-=========================	File descriptions	=========================
+
+* =========================	File descriptions	=========================
 1. There are two indexes for dictionary (.json), 'input' and 'target'
 2. Each 'input' has multiple error words. e.g. ['varable', 'vareble', ...]
 3. Each 'target' has only one correct word. e.g. 'variable'
