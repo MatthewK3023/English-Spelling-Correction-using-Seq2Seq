@@ -6,7 +6,7 @@ implement a seq2seq recurrent neural network for English spelling correction, E.
 1. training dataset
 2. file length: 7461
 3. data size: 12925
-<br/><br/>
+\\
 =========================	test.json =========================
 1. testing dataset
 2. file length: 50
