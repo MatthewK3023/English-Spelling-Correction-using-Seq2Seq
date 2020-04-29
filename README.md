@@ -17,4 +17,4 @@ implement a seq2seq recurrent neural network for English spelling correction, E.
 4. In test.json, 'input' has only one error word. e.g. ['varable']
 
 #### Results
-<img src="./training_process/training_process.png" width="90%">
+<img src="./training_process/training_process.png" width="100%">
