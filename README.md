@@ -2,11 +2,11 @@
 implement a seq2seq recurrent neural network for English spelling correction, E.g. ‘recetion’ to ‘recession’
 
 #### Dataset Desriptions
----------------------	train.json ---------------------	
+=========================	train.json =========================
 1. training dataset
 2. file length: 7461
 3. data size: 12925
-=========================	test.json			=========================
+<br/>=========================	test.json =========================
 1. testing dataset
 2. file length: 50
 3. data size: 50
